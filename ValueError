@@ -1,0 +1,4 @@
+ except (ValueError, IndexError):
+            print("Некорректный ввод. Пожалуйста, введите номер карты от 1 до 6.")
+if name == "__main__":
+    play_durok()
